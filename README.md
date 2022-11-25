@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - I'm a MaITSE student @ HPI Potsdam
-- Programming with the Kotlin language is my passion!
 - Find me on the [Fediverse](https://hachyderm.io/@shirleynekodev) or on [Twitter](https://twitter.com/ShirleyNekoDev)
 
 <!--
