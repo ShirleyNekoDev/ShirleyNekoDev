@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm a MaITSE student @ HPI Potsdam
+- Programming with the Kotlin language is my passion!
+- Find me on <a rel="me" href="https://hachyderm.io/@shirleynekodev">Mastodon</a> or on [Twitter](https://twitter.com/ShirleyNekoDev)
+
 <!--
 **ShirleyNekoDev/ShirleyNekoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
