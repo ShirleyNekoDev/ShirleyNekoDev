@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- I'm a MaITSE student @ HPI Potsdam
+- I'm a software developer @ [EBP Deutschland GmbH](https://ebp.de/)
+- Previously MSc. IT Systems Engineering student @ [HPI Potsdam](https://hpi.de/)
+- Currently contributing to the ["Chunky" Java Minecraft Pathtracer](https://github.com/chunky-dev/chunky)
 - Find me on the [Fediverse](https://hachyderm.io/@shirleynekodev) or on [Twitter](https://twitter.com/ShirleyNekoDev)
 
 <!--
