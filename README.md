@@ -3,7 +3,7 @@
 - I'm a software developer @ [EBP Deutschland GmbH](https://ebp.de/)
 - Previously MSc. IT Systems Engineering student @ [HPI Potsdam](https://hpi.de/)
 - Currently contributing to the ["Chunky" Java Minecraft Pathtracer](https://github.com/chunky-dev/chunky)
-- Find me on the [Fediverse](https://hachyderm.io/@shirleynekodev) or on [Twitter](https://twitter.com/ShirleyNekoDev)
+- Find me on the [Fediverse](https://hachyderm.io/@shirleynekodev) or on [Bluesky](https://bsky.app/profile/shirleynekodev.bsky.social)
 
 <!--
 **ShirleyNekoDev/ShirleyNekoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
